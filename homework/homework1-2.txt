@@ -1,0 +1,10 @@
+Last login: Wed Sep  1 07:33:52 on ttys000
+saradaguio@Saras-MacBook-Pro ~ % cd
+saradaguio@Saras-MacBook-Pro ~ % ls
+Desktop		Downloads	Movies		Pictures
+Documents	Library		Music		Public
+saradaguio@Saras-MacBook-Pro ~ % cd Documents
+saradaguio@Saras-MacBook-Pro Documents %  mkdir homework
+saradaguio@Saras-MacBook-Pro Documents % cd homework
+saradaguio@Saras-MacBook-Pro homework % touch homework1-2.txt
+saradaguio@Saras-MacBook-Pro homework % 
