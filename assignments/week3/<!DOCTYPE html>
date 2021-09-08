@@ -1,0 +1,48 @@
+<css.html>
+
+<html lange="en">
+
+<head>
+    <meta charset=utf-8" />
+    <title>CSS Code</title>
+
+    <!--CSS internal stylesheets -->
+    <!--
+This is a ruleset 
+
+    This is a ruleset , it has a selector curly braces holding multiple rules.
+
+    selector {
+        property: value;
+        property: value;
+        property: value;
+
+    }
+
+    <style>
+
+    /* this is a CSS comment */
+
+    p {
+        color:firebrick;
+        background-color:mediumaquamarine;
+        font-size: 32px;
+        font-family:"Arial", "Helvetica", sans-serif;
+        border-width: 5px;
+        border-color:navy;
+        border-style:solid;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    </body>
+        <p>Welcome to my website.</p>
+
+        <p>Goodbye!<p>
+
+    </html>
+
